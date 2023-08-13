@@ -1,0 +1,91 @@
+
+.mi-header{
+    background-color: rgb(207, 204, 204);
+    padding: 2em;
+    border-radius: 5px;
+
+
+
+}
+
+.navegador{
+    background-color: rgb(242, 243, 157);
+    padding: 0,5em;
+    margin-bottom: 1px;
+    border: 5px solid rgb(94, 89, 89);
+    border-radius: 5px;
+    
+    
+}
+.link-item{
+    font-weight: 600;
+    font-style: oblique;
+    font-size: 20px;
+    
+   
+}
+.list-links{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+   
+
+}
+.list-links a{
+    text-decoration: none;
+}
+.title{
+    background-color: rgb(154, 154, 226);
+    padding: 2%;
+    margin-bottom: 5%;
+    border: 5px solid black;
+    border-radius: 5px;
+
+}
+
+.main{
+    color: blueviolet;
+    background-color: rgb(184, 211, 212);
+    border: 3px solid;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+
+.footer{
+    color: black;
+    background-color: rgb(243, 156, 156);
+    list-style-type: none;
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    font-size: 20px;
+    text-decoration: none;
+;
+}
+
+.formulario{
+    background-color: rgb(212, 209, 209);
+    padding: 15px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    border: 15px solid violet;
+    border-radius: 10px;
+    margin: auto;
+    width: 300px;
+    height: 450px;
+
+    }
+.Descripcion{
+    color: coral;
+    font-style: italic;
+}   
